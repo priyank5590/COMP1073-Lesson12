@@ -1,6 +1,6 @@
 {
-  "name": "COMP1073-Lesson11",
-  "homepage": "https://github.com/GeorgianCollege/COMP1073-Lesson11",
+  "name": "comp1073-lesson12",
+  "homepage": "https://github.com/GeorgianCollege/COMP1073-Lesson12",
   "authors": [
     "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
   ],
@@ -20,6 +20,9 @@
     "jquery": "^2.2.2",
     "bootstrap": "^3.3.6",
     "font-awesome": "^4.5.0",
-    "jquery-ui": "jqueryui#^1.11.4"
+    "EaselJS": "easeljs#^0.8.2",
+    "SoundJS": "^0.6.2",
+    "TweenJS": "^0.6.2",
+    "PreloadJS": "^0.6.2"
   }
 }

@@ -5,6 +5,7 @@
 
     "use strict";
 
+    // Load the navbar dynamically via jQuery and Ajax
     var header = $('#mainHeader').load("partials/nav.html", function(){
         var bodyid = $('body').attr('id');
         switch (bodyid.toString()) {
@@ -18,8 +19,6 @@
                 $('#contactLink').attr("class","active");
                 break;
         }
-        
-        
     });
 
     
