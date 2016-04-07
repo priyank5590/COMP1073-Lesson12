@@ -1,0 +1,25 @@
+{
+  "name": "COMP1073-Lesson11",
+  "homepage": "https://github.com/GeorgianCollege/COMP1073-Lesson11",
+  "authors": [
+    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0",
+    "jquery-ui": "jqueryui#^1.11.4"
+  }
+}
