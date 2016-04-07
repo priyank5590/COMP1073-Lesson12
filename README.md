@@ -1,5 +1,5 @@
 # COMP1073-Lesson11
 
-COMP1073 Lesson 11 for Client-Scripting @ Georgian College
+COMP1073 Lesson 12 
 
 Topic: jQuery Essentials - Create Js
